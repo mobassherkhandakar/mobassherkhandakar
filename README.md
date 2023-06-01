@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mobassherkhandakar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1L9exBjntLF2lGNcCfZX_Wj-WHV_IHt8i](https://drive.google.com/drive/folders/1L9exBjntLF2lGNcCfZX_Wj-WHV_IHt8i)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15GaY_orNI7aVohGPI7-zxRwiL4UrD6WH/view?usp=drive_link](https://drive.google.com/file/d/15GaY_orNI7aVohGPI7-zxRwiL4UrD6WH/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
