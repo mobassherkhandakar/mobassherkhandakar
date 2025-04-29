@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bistro Boss restaurant**
 
-- 🌱 I’m currently learning **Redux and Next.js**
+- 🌱 I’m currently learning **Redux and  Next.js**
 
 - 📫 How to reach me **mobassherkhandakar@gmail.com**
 
