@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DevOps Maintain**
 
-- 🌱 I’m currently learning **Redux and  Next.js**
+- 🌱 I’m currently learning **Radis and kubernetes**
 
 - 📫 How to reach me **mobassherkhandakar@gmail.com**
 
