@@ -1,6 +1,6 @@
 ![logo](https://github.com/mobassherkhandakar/mobassherkhandakar/blob/main/1678547218084.jpeg)
 <h1 align="center">Hi 👋, I'm Mobassher Khandakar</h1>
-<h3 align="center">A passionate Mern stack developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mobassherkhandakar&label=Profile%20views&color=0e75b6&style=flat" alt="mobassherkhandakar" /> </p>
 
